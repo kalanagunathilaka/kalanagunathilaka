@@ -10,13 +10,15 @@
   
 - 🌱 I’m currently learning **SPRING-REACT**
 
-- 🧑‍🎓 I’m an Undergraduate at **UOM**
+- 🧑‍🎓 I’m a Final Year IT Undergraduate at **UOM**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **kalanalakshang@gmail.com**
   
 - ⚡ Fun fact **Call me as Noob**
+  
+- 📑 Here is [My Resume](https://drive.google.com/file/d/1LIkOwpPwyyT2qQh5PeljyPBSHn6Ln-Fb/view?usp=sharing)
 
 </td>
 <td width="50%" align="center">
