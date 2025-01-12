@@ -145,5 +145,3 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50" />
   </a>
 </p>
-
----
