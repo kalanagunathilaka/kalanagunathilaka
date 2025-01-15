@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/yesitha/yesitha/blob/main/gifs/about_me.gif" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kalana Gunathilaka</h1>
 <h3 align="center">A Passionate Full-Stack Developer | Interested in DevOps | From Sri Lanka</h3>
 
@@ -6,24 +6,24 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="80%" align="left">
   
-- 🌱 I’m currently learning **SPRING-REACT**
+- 🌱 I’m currently learning **Spring Boot | React | Docker**
 
-- 🧑‍🎓 I’m a Final Year IT Undergraduate at **UOM**
+- 🧑‍🎓 I’m a Final Year IT Undergraduate at <a href="https://uom.lk/"> **University of Moratuwa**</a>
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kalanalakshang@gmail.com**
+- 📫 How to reach me **[kalanalakshang@gmail.com](mailto:kalanalakshang@gmail.com)**
   
 - ⚡ Fun fact **Call me as Noob**
   
 - 📑 Here is [My Resume](https://drive.google.com/file/d/1LIkOwpPwyyT2qQh5PeljyPBSHn6Ln-Fb/view?usp=sharing)
 
 </td>
-<td width="50%" align="center">
+<td width="20%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="200px" height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIxNHNoYjJ2dmZ2NmNsMWhzaHgzZnJyaWlmbjFybzI3YWFxdTFhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pm2LVNAMDWXSJesMHQ/giphy.gif">
 
   
   </td>
@@ -42,7 +42,7 @@
   
 </td>
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanagunathilaka&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-theta-three.vercel.app?user=kalanagunathilaka&theme=dark&hide_border=false" /> 
 <!--   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalanagunathilaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
   </td>
 </tr>
@@ -62,7 +62,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,html,css,angular,react,redux,tailwind,materialui,bootstrap,spring,dotnet,aws,git,githubactions,docker,linux,postgres,mysql,grafana,nginx,opencv,kafka,rabbitmq,maven,vscode,idea,visualstudio,blender,figma,postman,npm,github&perline=13" />
+  </a>
+<!--   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -145,5 +148,5 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50" />
-  </a>
+  </a> -->
 </p>
